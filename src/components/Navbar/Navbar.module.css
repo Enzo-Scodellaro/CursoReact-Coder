@@ -1,0 +1,26 @@
+.containerNavbar {
+  display: flex;
+  width: 100%;
+  height: 10vh;
+  justify-content: space-around;
+  background-color: #ff8300;
+  align-items: center;
+}
+.containerNavbarUl {
+  display: flex;
+  /*margin-right: 3rem; */
+  list-style-type: none;
+}
+.containerNavBarUlLi {
+  padding: 0 1.6rem;
+}
+.containerNavBarInput {
+  margin: 0 1rem;
+}
+.containerNavBarInputBtn {
+  margin: 0 1rem;
+}
+.containerNavbarImgLogo {
+  width: 120px;
+  height: 40px;
+}
